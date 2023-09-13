@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PushonPortfolio/static/css/main.0d2fc255.css",
+    "main.js": "/PushonPortfolio/static/js/main.b2d9f7fa.js",
+    "static/media/Logo.png": "/PushonPortfolio/static/media/Logo.a8f57ff45f6279d46cd0.png",
+    "static/media/Photo.jpg": "/PushonPortfolio/static/media/Photo.17b32b27fdb96b399812.jpg",
+    "static/media/PPhoto.png": "/PushonPortfolio/static/media/PPhoto.463fa63fd94fb7887ee6.png",
+    "static/media/CORL.png": "/PushonPortfolio/static/media/CORL.40873c7993432b240476.png",
+    "static/media/R_USA.png": "/PushonPortfolio/static/media/R_USA.77e034d95a4710a5913f.png",
+    "static/media/PassioT.png": "/PushonPortfolio/static/media/PassioT.99b8bf7041681d504f1c.png",
+    "static/media/GSU.png": "/PushonPortfolio/static/media/GSU.4ce7f0c1c5be0c70eb0d.png",
+    "static/media/M.png": "/PushonPortfolio/static/media/M.b6a6f8be889815107100.png",
+    "static/media/Resume.pdf": "/PushonPortfolio/static/media/Resume.07f9e2f56325b574d5fe.pdf",
+    "static/media/background.jpg": "/PushonPortfolio/static/media/background.7075e9b1cb397a3fdb24.jpg",
+    "index.html": "/PushonPortfolio/index.html",
+    "main.0d2fc255.css.map": "/PushonPortfolio/static/css/main.0d2fc255.css.map",
+    "main.b2d9f7fa.js.map": "/PushonPortfolio/static/js/main.b2d9f7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2fc255.css",
+    "static/js/main.b2d9f7fa.js"
+  ]
+}
